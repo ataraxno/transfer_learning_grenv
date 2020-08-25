@@ -4,6 +4,10 @@
 *.csv
 *.dat
 *.npz
+*.png
+*.svg
+*.jpg
+
 
 # Compiled source #
 ###################
