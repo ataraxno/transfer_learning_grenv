@@ -5,8 +5,13 @@
 *.dat
 *.npz
 *.png
+<<<<<<< HEAD
 *.jpg
 *.svg
+=======
+*.svg
+*.jpg
+>>>>>>> 816624943a12bcbfdcf39811544163ff01dea92b
 
 
 # Compiled source #
