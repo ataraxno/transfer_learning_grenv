@@ -1,0 +1,2 @@
+model_checkpoint_path: "used_AE"
+all_model_checkpoint_paths: "used_AE"

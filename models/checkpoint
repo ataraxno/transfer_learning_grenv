@@ -1,0 +1,2 @@
+model_checkpoint_path: "raw_ae"
+all_model_checkpoint_paths: "raw_ae"
